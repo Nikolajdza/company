@@ -1,0 +1,231 @@
+{
+  "common": {
+    "skipToContent": "Preskoči na sadržaj",
+    "letsTalk": "Hajde da pričamo",
+    "readMore": "Pročitaj više",
+    "viewPortfolio": "Pogledaj portfolio",
+    "contactSales": "Kontaktiraj prodaju",
+    "getStarted": "Započni",
+    "submit": "Pošalji",
+    "sendRequest": "Pošalji zahtev",
+    "details": "Detalji",
+    "themeLight": "Svetla tema",
+    "themeDark": "Tamna tema",
+    "bookMeeting": "Ili zakažite sastanak sa našim prodajnim timom"
+  },
+  "nav": {
+    "home": "Početna",
+    "services": "Usluge",
+    "about": "O nama",
+    "careers": "Karijere",
+    "blog": "Blog",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "heroEyebrow": "IT usluge i razvoj softvera",
+    "ourServices": "Naše usluge",
+    "aboutTitle": "O nama",
+    "aboutSubtitle": "Razvoj softvera sa dugom tradicijom u outsourcingu, sa sedištem u Novom Sadu. Naš tim pretvara ideje u vrhunska rešenja.",
+    "technologies": "Tehnologije",
+    "businessModels": "Poslovni modeli",
+    "ourApproach": "Naš pristup",
+    "approachSubtitle": "Agilan pristup za najbolje rezultate — jednostavna rešenja za složene IT izazove.",
+    "promiseTitle": "Naše obećanje digitalizacije",
+    "projects": "Projekti",
+    "viewPortfolio": "Pogledaj portfolio",
+    "quoteTitle": "Zatražite besplatnu ponudu",
+    "joinTeam": "Pridruži se timu!",
+    "joinTeamText": "Tražimo talentovane inženjere. Pošaljite CV na",
+    "viewPositions": "Otvorene pozicije",
+    "letsWorkTogether": "Hajde da radimo zajedno",
+    "email": "Email",
+    "subject": "Naslov",
+    "message": "Poruka",
+    "thankYou": "Hvala!",
+    "thankYouMessage": "Primili smo poruku i javićemo se uskoro.",
+    "contactSubtitle": "Recite nam o projektu — obično odgovaramo u jednom radnom danu.",
+    "basedIn": "Sa sedištem u Novom Sadu — radimo sa klijentima širom sveta",
+    "responseTime": "Odgovor u roku od 24h radnim danima",
+    "directEmail": "Radije email?",
+    "phone": "Telefon",
+    "location": "Lokacija",
+    "responseLabel": "Odgovor",
+    "sendAnother": "Pošalji još jednu poruku",
+    "meetTeam": "Upoznajte ljude iza vašeg projekta",
+    "meetTeamSubtitle": "Rukovodstvo dostupno direktno — bez birokratije.",
+    "teamRoles": {
+      "founderCeo": "Osnivač i CEO",
+      "cofounderFront": "Co-founder i Front-end Lead",
+      "cofounderCto": "Co-founder i CTO"
+    },
+    "team": {
+      "ljubomirBio": "5+ godina u softveru. Vodi kompaniju, klijente i viziju proizvoda.",
+      "nikolaBio": "5+ godina u modernim web aplikacijama. Co-vodi front-end arhitekturu.",
+      "ninoslavBio": "15+ godina u inženjeringu. Tehnički pravac, arhitektura i kultura tima."
+    },
+    "finalCtaTitle": "Korak u digitalnu eru sa poverenjem",
+    "finalCtaText": "Spremni za digitalizaciju? Kontaktirajte nas za besplatnu konsultaciju.",
+    "scheduleConsultation": "Zakažite konsultaciju"
+  },
+  "about": {
+    "metaTitle": "O nama",
+    "metaDescription": "Upoznajte naš tim, vrednosti, proces razvoja i zašto nas biraju za IT outsourcing.",
+    "heroTitle": "O nama",
+    "introP1": "je pouzdan partner za razvoj softvera i QA. Sa 100+ inženjera isporučujemo rešenja iz Novog Sada.",
+    "introP2": "Ideje pretvaramo u softver kroz moderne tehnologije i dugoročna partnerstva.",
+    "whyTitle": "Zašto",
+    "whyQuestion": "mi?",
+    "acrostic": {
+      "c": "Isplativo i kreativno",
+      "o1": "Na vreme i u budžetu",
+      "d": "Posvećeni detaljima",
+      "o2": "Optimalno i originalno",
+      "l": "Logično i jednostavno",
+      "i": "Inteligentno i inovativno",
+      "s": "Sigurno i sofisticirano"
+    },
+    "processEyebrow": "Kako radimo",
+    "processTitle": "Proces razvoja",
+    "processSubtitle": "Od analize do podrške — proveren agilan proces.",
+    "outsourcing": "Autsorsing",
+    "workflow": "Workflow autsorsinga",
+    "coreValues": "Osnovne vrednosti",
+    "businessModels": "Poslovni modeli",
+    "timeline": "Hronologija",
+    "aiEdge": "Naša prednost",
+    "aiTitle": "AI ubrzani razvoj",
+    "aiSubtitle": "Koristimo svaki dan za bolji i brži softver",
+    "techStack": "Naš stack",
+    "whyOutsource": "Zašto autsorsing",
+    "industries": "Industrije",
+    "differenceSubtitle": "Naše snage",
+    "differenceTitle": "Šta nas izdvaja",
+    "differences": {
+      "team": {
+        "title": "100+ inženjera, jedan standard",
+        "description": "Senior tim za Ruby, Go, Java, React, mobile, QA i DevOps — ista kvaliteta."
+      },
+      "agile": {
+        "title": "Agilno i transparentno",
+        "description": "Sprintovi, demo i metrike. Uvek znate gde je projekat."
+      },
+      "ai": {
+        "title": "AI ubrzano, ljudima vođeno",
+        "description": "AI alati za brzinu bez kompromisa u arhitekturi i bezbednosti."
+      },
+      "partner": {
+        "title": "Dugoročno partnerstvo",
+        "description": "Od MVP-a do skale — rastemo sa vašim proizvodom godinama."
+      }
+    },
+    "industryLabels": {
+      "energy": "Energija",
+      "automotive": "Automobili",
+      "legal": "Pravo",
+      "healthcare": "Zdravstvo",
+      "business": "Biznis",
+      "education": "Obrazovanje",
+      "smartCities": "Pametni gradovi",
+      "agriculture": "Poljoprivreda",
+      "retail": "Maloprodaja",
+      "finance": "Finansije"
+    },
+    "ctaTitle": "Povežite se sa stručnjacima",
+    "ctaText": "Spremni za novi projekat ili proširenje tima?"
+  },
+  "contact": {
+    "metaTitle": "Kontakt",
+    "metaDescription": "Kontaktirajte nas — upiti, prodaja i karijere.",
+    "heroTitle": "Kontakt",
+    "formTitle": "Kontaktirajte nas",
+    "position": "Pozicija",
+    "seniority": "Senioritet",
+    "technology": "Tehnologija (max 3)",
+    "projectLength": "Trajanje projekta",
+    "developers": "Broj developera",
+    "nameCompany": "Ime / Kompanija",
+    "emailRequired": "Email *",
+    "selectTechnology": "Izaberite tehnologiju",
+    "bookMeeting": "Ili zakažite sastanak sa prodajom",
+    "bookMeetingHint": "Izaberite termin — potvrdu šaljemo emailom.",
+    "mapTitle": "Gde smo",
+    "thankYou": "Hvala!",
+    "thankYouMessage": "Primili smo zahtev i odgovorićemo uskoro.",
+    "positions": {
+      "frontend": "Front-end",
+      "backend": "Back-end",
+      "fullstack": "Full-stack",
+      "mobile": "Mobile",
+      "qa": "QA / testiranje",
+      "devops": "DevOps",
+      "design": "UI/UX dizajn"
+    },
+    "seniorityOptions": {
+      "junior": "Junior",
+      "medior": "Medior",
+      "senior": "Senior",
+      "lead": "Lead / arhitekta"
+    },
+    "projectLengths": {
+      "1-6": "1 – 6 meseci",
+      "6-12": "6 – 12 meseci",
+      "12plus": "12+ meseci",
+      "ongoing": "Kontinuirano"
+    },
+    "developerCounts": {
+      "1": "1",
+      "2-3": "2 – 3",
+      "4-6": "4 – 6",
+      "7plus": "7+"
+    }
+  },
+  "careers": {
+    "metaTitle": "Karijere",
+    "metaDescription": "Pridružite se timu u Novom Sadu.",
+    "heroTitle": "Karijere",
+    "heroSubtitle": "Sledeći korak u karijeri — pridruži nam se",
+    "openPositions": "Otvorene pozicije",
+    "internships": "Prakse",
+    "benefits": "Beneficije",
+    "benefitFlexible": "Fleksibilno radno vreme",
+    "benefitSalary": "Konkurentna plata",
+    "benefitTraining": "Obuke i sertifikacije",
+    "benefitMedical": "Zdravstveno osiguranje",
+    "statEmployees": "Zaposlenih",
+    "statIntroduced": "Upoznatih sa IT industrijom",
+    "internshipPositions": "Pozicije za praksu",
+    "internshipCta": "Pošaljite CV na",
+    "lifeAtCompany": "Život u kompaniji",
+    "viewInternships": "Prakse"
+  },
+  "portfolio": {
+    "metaTitle": "Portfolio",
+    "metaDescription": "Izabrani projekti i studije slučaja.",
+    "title": "Portfolio",
+    "subtitle": "Projekti iz fintech, zdravstva, obrazovanja i drugih oblasti.",
+    "cta": "Započni projekat"
+  },
+  "blog": {
+    "metaTitle": "Blog",
+    "metaDescription": "Uvidi o razvoju softvera i digitalizaciji.",
+    "title": "Blog",
+    "subtitle": "Priče i uvidi iz našeg tima",
+    "comingSoon": "Pripremamo članke o inženjeringu i isporuci proizvoda. Uskoro više.",
+    "notifyCta": "Kontaktirajte nas"
+  },
+  "errors": {
+    "notFoundTitle": "Stranica nije pronađena",
+    "notFoundText": "Stranica ne postoji ili je premeštena.",
+    "backHome": "Početna",
+    "contactUs": "Kontakt",
+    "errorTitle": "Nešto nije u redu",
+    "errorText": "Nismo mogli da učitamo stranicu. Pokušajte ponovo.",
+    "tryAgain": "Pokušaj ponovo"
+  },
+  "footer": {
+    "navigation": "Navigacija",
+    "contact": "Kontakt",
+    "followUs": "Pratite nas",
+    "rights": "Sva prava zadržana"
+  }
+}

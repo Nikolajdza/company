@@ -1,0 +1,231 @@
+{
+  "common": {
+    "skipToContent": "Skip to content",
+    "letsTalk": "Let's talk",
+    "readMore": "Read more",
+    "viewPortfolio": "View portfolio",
+    "contactSales": "Contact our sales team",
+    "getStarted": "Get started",
+    "submit": "Submit",
+    "sendRequest": "Send request",
+    "details": "Details",
+    "themeLight": "Light mode",
+    "themeDark": "Dark mode",
+    "bookMeeting": "Or book a meeting with our Sales Team"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "careers": "Careers",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "home": {
+    "heroEyebrow": "IT Services & Software Development",
+    "ourServices": "Our services",
+    "aboutTitle": "About us",
+    "aboutSubtitle": "We are a software development company with a long tradition in providing outsourcing services, based in Novi Sad, Serbia. Our experienced team turns ideas into finest software solutions.",
+    "technologies": "Technologies",
+    "businessModels": "Business Models",
+    "ourApproach": "Our approach",
+    "approachSubtitle": "We use an agile approach to ensure the best possible results — simple yet efficient solutions to complex IT challenges.",
+    "promiseTitle": "Our Digitalization Promise",
+    "projects": "Projects",
+    "viewPortfolio": "View portfolio",
+    "quoteTitle": "Request a Free Quote for One of Our Services",
+    "joinTeam": "Join our team!",
+    "joinTeamText": "We are always looking for talented engineers. Send your CV to",
+    "viewPositions": "View open positions",
+    "letsWorkTogether": "Let's work together",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "thankYou": "Thank you!",
+    "thankYouMessage": "We have received your message and will get back to you soon.",
+    "contactSubtitle": "Tell us about your project — we typically respond within one business day.",
+    "basedIn": "Based in Novi Sad, Serbia — serving clients worldwide",
+    "responseTime": "Response within 24h on business days",
+    "directEmail": "Prefer email?",
+    "phone": "Phone",
+    "location": "Location",
+    "responseLabel": "Response",
+    "sendAnother": "Send another message",
+    "meetTeam": "Meet the people behind your project",
+    "meetTeamSubtitle": "Leadership you can reach directly — no layers of bureaucracy.",
+    "teamRoles": {
+      "founderCeo": "Founder & CEO",
+      "cofounderFront": "Co-founder & Front-end Lead",
+      "cofounderCto": "Co-founder & CTO"
+    },
+    "team": {
+      "ljubomirBio": "5+ years in software. Leads the company, client partnerships, and product vision.",
+      "nikolaBio": "5+ years building modern web apps. Co-leads front-end architecture and delivery.",
+      "ninoslavBio": "15+ years in engineering. Sets technical direction, architecture, and engineering culture."
+    },
+    "finalCtaTitle": "Step Into the Digital Era With Confidence",
+    "finalCtaText": "Ready to digitalize your business processes? Contact us for a free consultation.",
+    "scheduleConsultation": "Schedule a free consultation"
+  },
+  "about": {
+    "metaTitle": "About Us",
+    "metaDescription": "Learn about our team, values, development process, and why companies choose us for software development and IT outsourcing.",
+    "heroTitle": "About us",
+    "introP1": "is a reliable partner for software development and QA. With 100+ engineers, we deliver scalable solutions from Novi Sad, Serbia.",
+    "introP2": "We turn ideas into production-ready software through advanced processes, modern technologies, and long-term partnerships.",
+    "whyTitle": "Why",
+    "whyQuestion": "choose us?",
+    "acrostic": {
+      "c": "Cost-effective & Creative",
+      "o1": "On time & Within Budget",
+      "d": "Dedicated to Details",
+      "o2": "Optimal & Original",
+      "l": "Logical & Simple",
+      "i": "Intelligent, Inspiring, Innovative",
+      "s": "Safe, Smart, Sophisticated"
+    },
+    "processEyebrow": "How we work",
+    "processTitle": "Our Development Process",
+    "processSubtitle": "From discovery to long-term support — a proven agile process.",
+    "outsourcing": "Outsourcing",
+    "workflow": "Our outsourcing workflow",
+    "coreValues": "Core values",
+    "businessModels": "Business models",
+    "timeline": "Timeline",
+    "aiEdge": "Our edge",
+    "aiTitle": "AI-Accelerated Development",
+    "aiSubtitle": "We use it every day to build better software, faster",
+    "techStack": "Our stack",
+    "whyOutsource": "Why outsource",
+    "industries": "Industries we serve",
+    "differenceSubtitle": "Our strengths",
+    "differenceTitle": "What sets us apart",
+    "differences": {
+      "team": {
+        "title": "100+ Engineers, One Standard",
+        "description": "Senior talent across Ruby, Go, Java, React, mobile, QA, and DevOps — one quality bar."
+      },
+      "agile": {
+        "title": "Agile & Transparent",
+        "description": "Sprint delivery with clear communication, demos, and metrics. You always know project status."
+      },
+      "ai": {
+        "title": "AI-Accelerated, Human-Led",
+        "description": "Modern AI tools for speed without compromising architecture, security, or code review."
+      },
+      "partner": {
+        "title": "Long-Term Partnership",
+        "description": "From MVP to scale — we grow with your product over years, not just one project."
+      }
+    },
+    "industryLabels": {
+      "energy": "Energy",
+      "automotive": "Automotive",
+      "legal": "Legal",
+      "healthcare": "Healthcare",
+      "business": "Business",
+      "education": "Education",
+      "smartCities": "Smart cities",
+      "agriculture": "Agriculture",
+      "retail": "Retail",
+      "finance": "Finance"
+    },
+    "ctaTitle": "Connect with our experts",
+    "ctaText": "Ready to extend your team or start a new project?"
+  },
+  "contact": {
+    "metaTitle": "Contact",
+    "metaDescription": "Get in touch with our team — project inquiries, sales, and careers.",
+    "heroTitle": "Contact us",
+    "formTitle": "Contact us",
+    "position": "Position",
+    "seniority": "Seniority",
+    "technology": "Technology (max 3)",
+    "projectLength": "Project length",
+    "developers": "Number of developers",
+    "nameCompany": "Name / Company",
+    "emailRequired": "Email *",
+    "selectTechnology": "Select technology",
+    "bookMeeting": "Or book a meeting with our Sales Team",
+    "bookMeetingHint": "Pick a time that works for you — we'll confirm by email.",
+    "mapTitle": "Find us",
+    "thankYou": "Thank you!",
+    "thankYouMessage": "We received your request and will respond shortly.",
+    "positions": {
+      "frontend": "Front-end",
+      "backend": "Back-end",
+      "fullstack": "Full-stack",
+      "mobile": "Mobile",
+      "qa": "QA / Testing",
+      "devops": "DevOps",
+      "design": "UI/UX Design"
+    },
+    "seniorityOptions": {
+      "junior": "Junior",
+      "medior": "Medior",
+      "senior": "Senior",
+      "lead": "Lead / Architect"
+    },
+    "projectLengths": {
+      "1-6": "1 – 6 months",
+      "6-12": "6 – 12 months",
+      "12plus": "12+ months",
+      "ongoing": "Ongoing"
+    },
+    "developerCounts": {
+      "1": "1",
+      "2-3": "2 – 3",
+      "4-6": "4 – 6",
+      "7plus": "7+"
+    }
+  },
+  "careers": {
+    "metaTitle": "Careers",
+    "metaDescription": "Join our team — open positions, internships, and benefits in Novi Sad, Serbia.",
+    "heroTitle": "Careers",
+    "heroSubtitle": "Reach your next career milestone — join us",
+    "openPositions": "Open positions",
+    "internships": "Internships",
+    "benefits": "Benefits",
+    "benefitFlexible": "Flexible working hours and relaxed atmosphere",
+    "benefitSalary": "Competitive salary in line with your competences",
+    "benefitTraining": "Improvement programs, paid training and certification",
+    "benefitMedical": "Private medical insurance and other benefits",
+    "statEmployees": "Number of employees",
+    "statIntroduced": "People introduced to IT industry",
+    "internshipPositions": "Open internship positions",
+    "internshipCta": "If you are interested, send your CV to",
+    "lifeAtCompany": "Life at our company",
+    "viewInternships": "Internships"
+  },
+  "portfolio": {
+    "metaTitle": "Portfolio",
+    "metaDescription": "Selected projects and case studies from our software development work.",
+    "title": "Portfolio",
+    "subtitle": "Projects we are proud of — fintech, health, education, and more.",
+    "cta": "Start your project"
+  },
+  "blog": {
+    "metaTitle": "Blog",
+    "metaDescription": "Insights on software development, outsourcing, and digital transformation.",
+    "title": "Blog",
+    "subtitle": "Stories and insights from our team",
+    "comingSoon": "We are preparing articles on engineering, product delivery, and company culture. Check back soon.",
+    "notifyCta": "Contact us"
+  },
+  "errors": {
+    "notFoundTitle": "Page not found",
+    "notFoundText": "The page you are looking for does not exist or has been moved.",
+    "backHome": "Back to home",
+    "contactUs": "Contact us",
+    "errorTitle": "Something went wrong",
+    "errorText": "We could not load this page. Please try again.",
+    "tryAgain": "Try again"
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "followUs": "Follow us",
+    "rights": "All Rights Reserved"
+  }
+}

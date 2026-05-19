@@ -1,0 +1,18 @@
+export const technologies = [
+  { name: "React", slug: "react/react-original", ribbon: "from-cyan-500/30" },
+  { name: "TypeScript", slug: "typescript/typescript-original", ribbon: "from-blue-600/30" },
+  { name: "Node.js", slug: "nodejs/nodejs-original", ribbon: "from-green-600/30" },
+  { name: "Next.js", slug: "nextjs/nextjs-original", ribbon: "from-neutral-500/30" },
+  { name: "Python", slug: "python/python-original", ribbon: "from-yellow-500/30" },
+  { name: "Go", slug: "go/go-original-wordmark", ribbon: "from-sky-500/30" },
+  { name: "Java", slug: "java/java-original", ribbon: "from-orange-600/30" },
+  { name: "AWS", slug: "amazonwebservices/amazonwebservices-plain-wordmark", ribbon: "from-orange-500/30" },
+  { name: "Azure", slug: "azure/azure-original", ribbon: "from-blue-500/30" },
+  { name: "GCP", slug: "googlecloud/googlecloud-original", ribbon: "from-blue-400/30" },
+  { name: "Flutter", slug: "flutter/flutter-original", ribbon: "from-sky-400/30" },
+  { name: "Docker", slug: "docker/docker-original", ribbon: "from-blue-400/30" },
+  { name: "PostgreSQL", slug: "postgresql/postgresql-original", ribbon: "from-indigo-500/30" },
+  { name: "Kubernetes", slug: "kubernetes/kubernetes-plain", ribbon: "from-blue-600/30" },
+  { name: "Spring", slug: "spring/spring-original", ribbon: "from-green-500/30" },
+  { name: ".NET", slug: "dotnetcore/dotnetcore-original", ribbon: "from-purple-500/30" },
+] as const;

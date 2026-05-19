@@ -1,26 +1,139 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #f0f4f5;
+  --foreground: #1a1f2e;
+  --muted: #64748b;
+  --surface: #e8eef0;
+  --card: #ffffff;
+  --border: rgba(26, 31, 46, 0.08);
+  --dark: #0a1218;
+  --dark-elevated: #111c26;
+  --teal: #2d9c9b;
+  --teal-bright: #4fd1c5;
+  --teal-glow: #00e5d4;
+  --coral: #f07e6e;
+  --coral-dark: #e85d4a;
+  --orange: #f4845f;
+}
+
+.dark {
+  --background: #060d12;
+  --foreground: #e8eef2;
+  --muted: #94a3b8;
+  --surface: #0c161f;
+  --card: #111c26;
+  --border: rgba(255, 255, 255, 0.08);
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-muted: var(--muted);
+  --color-surface: var(--surface);
+  --color-card: var(--card);
+  --color-border: var(--border);
+  --color-dark: var(--dark);
+  --color-dark-elevated: var(--dark-elevated);
+  --color-teal: var(--teal);
+  --color-teal-bright: var(--teal-bright);
+  --color-teal-glow: var(--teal-glow);
+  --color-coral: var(--coral);
+  --color-coral-dark: var(--coral-dark);
+  --color-orange: var(--orange);
+  --font-sans: var(--font-sans);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
+  color-scheme: light dark;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+.clip-hexagon {
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+.glow-teal {
+  box-shadow:
+    0 0 0 1px rgba(79, 209, 197, 0.35),
+    0 0 24px rgba(0, 229, 212, 0.2),
+    0 0 48px rgba(0, 229, 212, 0.08);
+}
+
+.clip-chevron {
+  clip-path: polygon(
+    0 0,
+    calc(100% - 12px) 0,
+    100% 50%,
+    calc(100% - 12px) 100%,
+    0 100%,
+    12px 50%
+  );
+}
+
+.bg-tech-grid {
+  background-image:
+    linear-gradient(rgba(45, 156, 155, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(45, 156, 155, 0.04) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.animate-float {
+  animation: float 4s ease-in-out infinite;
+}
+
+/* Consistent section spacing — tighter than before */
+.section-py {
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
+}
+
+@media (min-width: 768px) {
+  .section-py {
+    padding-top: 4.5rem;
+    padding-bottom: 4.5rem;
+  }
+}
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 24s linear infinite;
+}
+
+.carousel-fade-left {
+  mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+}
+
+.carousel-fade-soft {
+  mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    black 12%,
+    black 88%,
+    transparent 100%
+  );
 }

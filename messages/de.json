@@ -1,0 +1,231 @@
+{
+  "common": {
+    "skipToContent": "Zum Inhalt springen",
+    "letsTalk": "Lassen Sie uns sprechen",
+    "readMore": "Mehr erfahren",
+    "viewPortfolio": "Portfolio ansehen",
+    "contactSales": "Vertrieb kontaktieren",
+    "getStarted": "Loslegen",
+    "submit": "Absenden",
+    "sendRequest": "Anfrage senden",
+    "details": "Details",
+    "themeLight": "Helles Design",
+    "themeDark": "Dunkles Design",
+    "bookMeeting": "Oder buchen Sie ein Meeting mit unserem Vertrieb"
+  },
+  "nav": {
+    "home": "Start",
+    "services": "Leistungen",
+    "about": "Über uns",
+    "careers": "Karriere",
+    "blog": "Blog",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "heroEyebrow": "IT-Dienstleistungen & Softwareentwicklung",
+    "ourServices": "Unsere Leistungen",
+    "aboutTitle": "Über uns",
+    "aboutSubtitle": "Softwareentwicklung mit Outsourcing-Tradition in Novi Sad, Serbien.",
+    "technologies": "Technologien",
+    "businessModels": "Geschäftsmodelle",
+    "ourApproach": "Unser Ansatz",
+    "approachSubtitle": "Agile Methoden für beste Ergebnisse bei komplexen IT-Herausforderungen.",
+    "promiseTitle": "Unser Digitalisierungsversprechen",
+    "projects": "Projekte",
+    "viewPortfolio": "Portfolio ansehen",
+    "quoteTitle": "Kostenloses Angebot anfordern",
+    "joinTeam": "Werde Teil unseres Teams!",
+    "joinTeamText": "Senden Sie Ihren Lebenslauf an",
+    "viewPositions": "Offene Stellen",
+    "letsWorkTogether": "Lassen Sie uns zusammenarbeiten",
+    "email": "E-Mail",
+    "subject": "Betreff",
+    "message": "Nachricht",
+    "thankYou": "Danke!",
+    "thankYouMessage": "Wir melden uns in Kürze bei Ihnen.",
+    "contactSubtitle": "Erzählen Sie uns von Ihrem Projekt — Antwort meist innerhalb eines Werktags.",
+    "basedIn": "Standort Novi Sad, Serbien — Kunden weltweit",
+    "responseTime": "Antwort innerhalb von 24h an Werktagen",
+    "directEmail": "Lieber per E-Mail?",
+    "phone": "Telefon",
+    "location": "Standort",
+    "responseLabel": "Antwort",
+    "sendAnother": "Weitere Nachricht senden",
+    "meetTeam": "Das Team hinter Ihrem Projekt",
+    "meetTeamSubtitle": "Führung mit direktem Draht — ohne Bürokratie.",
+    "teamRoles": {
+      "founderCeo": "Gründer & CEO",
+      "cofounderFront": "Co-founder & Front-end Lead",
+      "cofounderCto": "Co-founder & CTO"
+    },
+    "team": {
+      "ljubomirBio": "5+ Jahre Software. Leitet Unternehmen, Kundenbeziehungen und Produktvision.",
+      "nikolaBio": "5+ Jahre moderne Web-Apps. Co-Leitung Front-end-Architektur.",
+      "ninoslavBio": "15+ Jahre Engineering. Technische Ausrichtung und Engineering-Kultur."
+    },
+    "finalCtaTitle": "Mit Vertrauen in die digitale Ära",
+    "finalCtaText": "Kontaktieren Sie uns für eine kostenlose Beratung.",
+    "scheduleConsultation": "Beratung buchen"
+  },
+  "about": {
+    "metaTitle": "Über uns",
+    "metaDescription": "Team, Werte, Entwicklungsprozess und warum Unternehmen uns wählen.",
+    "heroTitle": "Über uns",
+    "introP1": "ist ein zuverlässiger Partner für Softwareentwicklung und QA mit 100+ Ingenieuren in Novi Sad.",
+    "introP2": "Wir verwandeln Ideen in Software durch moderne Technologien und langfristige Partnerschaften.",
+    "whyTitle": "Warum",
+    "whyQuestion": "wir?",
+    "acrostic": {
+      "c": "Kosteneffizient & kreativ",
+      "o1": "Pünktlich & im Budget",
+      "d": "Detailverliebt",
+      "o2": "Optimal & originell",
+      "l": "Logisch & einfach",
+      "i": "Intelligent & innovativ",
+      "s": "Sicher & anspruchsvoll"
+    },
+    "processEyebrow": "Wie wir arbeiten",
+    "processTitle": "Entwicklungsprozess",
+    "processSubtitle": "Von der Analyse bis zum Support — bewährter agiler Prozess.",
+    "outsourcing": "Outsourcing",
+    "workflow": "Outsourcing-Workflow",
+    "coreValues": "Kernwerte",
+    "businessModels": "Geschäftsmodelle",
+    "timeline": "Zeitleiste",
+    "aiEdge": "Unser Vorteil",
+    "aiTitle": "KI-beschleunigte Entwicklung",
+    "aiSubtitle": "Täglich eingesetzt für bessere Software, schneller",
+    "techStack": "Unser Stack",
+    "whyOutsource": "Warum Outsourcing",
+    "industries": "Branchen",
+    "differenceSubtitle": "Unsere Stärken",
+    "differenceTitle": "Was uns auszeichnet",
+    "differences": {
+      "team": {
+        "title": "100+ Ingenieure, ein Standard",
+        "description": "Senior-Talente für Ruby, Go, Java, React, Mobile, QA und DevOps."
+      },
+      "agile": {
+        "title": "Agil & transparent",
+        "description": "Sprint-Lieferung mit klaren Demos und Metriken."
+      },
+      "ai": {
+        "title": "KI-beschleunigt, menschengeführt",
+        "description": "Moderne KI-Tools ohne Kompromisse bei Architektur und Sicherheit."
+      },
+      "partner": {
+        "title": "Langfristige Partnerschaft",
+        "description": "Vom MVP bis zur Skalierung — wir wachsen mit Ihrem Produkt."
+      }
+    },
+    "industryLabels": {
+      "energy": "Energie",
+      "automotive": "Automotive",
+      "legal": "Recht",
+      "healthcare": "Gesundheit",
+      "business": "Business",
+      "education": "Bildung",
+      "smartCities": "Smart Cities",
+      "agriculture": "Landwirtschaft",
+      "retail": "Einzelhandel",
+      "finance": "Finanzen"
+    },
+    "ctaTitle": "Kontaktieren Sie unsere Experten",
+    "ctaText": "Bereit für Ihr nächstes Projekt?"
+  },
+  "contact": {
+    "metaTitle": "Kontakt",
+    "metaDescription": "Kontaktieren Sie uns — Anfragen, Vertrieb und Karriere.",
+    "heroTitle": "Kontakt",
+    "formTitle": "Kontakt",
+    "position": "Position",
+    "seniority": "Seniorität",
+    "technology": "Technologie (max. 3)",
+    "projectLength": "Projektdauer",
+    "developers": "Anzahl Entwickler",
+    "nameCompany": "Name / Firma",
+    "emailRequired": "E-Mail *",
+    "selectTechnology": "Technologie wählen",
+    "bookMeeting": "Oder Meeting mit dem Vertrieb buchen",
+    "bookMeetingHint": "Wählen Sie einen Termin — Bestätigung per E-Mail.",
+    "mapTitle": "Standort",
+    "thankYou": "Danke!",
+    "thankYouMessage": "Wir haben Ihre Anfrage erhalten.",
+    "positions": {
+      "frontend": "Front-end",
+      "backend": "Back-end",
+      "fullstack": "Full-stack",
+      "mobile": "Mobile",
+      "qa": "QA / Testing",
+      "devops": "DevOps",
+      "design": "UI/UX Design"
+    },
+    "seniorityOptions": {
+      "junior": "Junior",
+      "medior": "Medior",
+      "senior": "Senior",
+      "lead": "Lead / Architekt"
+    },
+    "projectLengths": {
+      "1-6": "1 – 6 Monate",
+      "6-12": "6 – 12 Monate",
+      "12plus": "12+ Monate",
+      "ongoing": "Laufend"
+    },
+    "developerCounts": {
+      "1": "1",
+      "2-3": "2 – 3",
+      "4-6": "4 – 6",
+      "7plus": "7+"
+    }
+  },
+  "careers": {
+    "metaTitle": "Karriere",
+    "metaDescription": "Werden Sie Teil unseres Teams in Novi Sad.",
+    "heroTitle": "Karriere",
+    "heroSubtitle": "Der nächste Karriereschritt",
+    "openPositions": "Offene Stellen",
+    "internships": "Praktika",
+    "benefits": "Benefits",
+    "benefitFlexible": "Flexible Arbeitszeiten",
+    "benefitSalary": "Wettbewerbsfähiges Gehalt",
+    "benefitTraining": "Weiterbildung & Zertifizierung",
+    "benefitMedical": "Krankenversicherung",
+    "statEmployees": "Mitarbeiter",
+    "statIntroduced": "In die IT eingeführt",
+    "internshipPositions": "Praktikumsstellen",
+    "internshipCta": "Lebenslauf senden an",
+    "lifeAtCompany": "Leben im Unternehmen",
+    "viewInternships": "Praktika"
+  },
+  "portfolio": {
+    "metaTitle": "Portfolio",
+    "metaDescription": "Ausgewählte Projekte und Fallstudien.",
+    "title": "Portfolio",
+    "subtitle": "Projekte aus FinTech, Gesundheit, Bildung und mehr.",
+    "cta": "Projekt starten"
+  },
+  "blog": {
+    "metaTitle": "Blog",
+    "metaDescription": "Einblicke in Softwareentwicklung und Digitalisierung.",
+    "title": "Blog",
+    "subtitle": "Geschichten und Einblicke unseres Teams",
+    "comingSoon": "Wir bereiten Artikel vor. Schauen Sie bald wieder vorbei.",
+    "notifyCta": "Kontaktieren Sie uns"
+  },
+  "errors": {
+    "notFoundTitle": "Seite nicht gefunden",
+    "notFoundText": "Die Seite existiert nicht oder wurde verschoben.",
+    "backHome": "Zur Startseite",
+    "contactUs": "Kontakt",
+    "errorTitle": "Etwas ist schiefgelaufen",
+    "errorText": "Die Seite konnte nicht geladen werden. Bitte erneut versuchen.",
+    "tryAgain": "Erneut versuchen"
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "contact": "Kontakt",
+    "followUs": "Folgen Sie uns",
+    "rights": "Alle Rechte vorbehalten"
+  }
+}
